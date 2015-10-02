@@ -1,3 +1,4 @@
-pubspec.lock
+/.packages
+/pubspec.lock
+/tool/githubtoken
 packages
-tool/githubtoken
